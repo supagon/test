@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:02:30.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="CXjbkDZPvcADqxdIWYNH" version="20.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:04:11.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="GDsw-cit80byvoSkq2bG" version="20.0.2" type="github" pages="11">
   <diagram id="8ZpGdS8E5mvSgYeWT1kg" name="Attendee vote">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -670,6 +670,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kHxguA2Ns4Rh-1oTyRki-14" target="kHxguA2Ns4Rh-1oTyRki-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="110" as="sourcePoint" />
+            <mxPoint x="240" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="kHxguA2Ns4Rh-1oTyRki-5" target="kHxguA2Ns4Rh-1oTyRki-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-5" value="Choose poster" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="kHxguA2Ns4Rh-1oTyRki-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-12" value="View competition" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-14" value="View app landing page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHxguA2Ns4Rh-1oTyRki-15" value="view poster detail" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
