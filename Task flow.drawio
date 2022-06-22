@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T07:40:51.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="LoLooV65oF4mDO8lry25" version="20.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-22T08:19:24.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="cseZgADSZomMY9I5882z" version="20.0.2" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,10 +230,50 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W8mAzJv307CHsKuE3q3d" name="Attendee manage submit poster">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="upD9gct4plpZrWRJ73y7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-2" target="upD9gct4plpZrWRJ73y7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-2" value="View app landing page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-4" target="upD9gct4plpZrWRJ73y7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482.5" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-4" value="Sign up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-6" target="upD9gct4plpZrWRJ73y7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-6" value="View competition page" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-9" target="upD9gct4plpZrWRJ73y7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-9" target="upD9gct4plpZrWRJ73y7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-9" value="user have account ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upD9gct4plpZrWRJ73y7-11" target="upD9gct4plpZrWRJ73y7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422.5" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-11" value="Log in" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="upD9gct4plpZrWRJ73y7-13" value="Manage poster in competition" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
